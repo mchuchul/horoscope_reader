@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Poiret+One|Lobster);
+@import url(http://fonts.googleapis.com/css?family=Poiret+One|Lobster|Open+Sans+Condensed:300);
+body {
+  background-color:#FFA9FF;
+}
+
+h1 {
+  color:#D630AC;
+  font-size:100px;
+  text-align:center;
+  font-family: 'Poiret One', cursive;
+}
+
+h2 {
+  color:#9900FF;
+  font-size:50px;
+  font-family: 'Lobster', cursive;
+}
+
+label{
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:25px;
+}
